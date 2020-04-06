@@ -3,7 +3,7 @@ import cv2
 import os
 import numpy as np
 
-subjects = ["", "Pushpraj", "Raam"]
+subjects = ["", "Pushpraj", "Ishita", "Papa"]
 
 
 def detect_face(img):
@@ -12,7 +12,8 @@ def detect_face(img):
     
     #load OpenCV face detector, I am using LBP which is fast
     #there is also a more accurate but slow Haar classifier
-    face_cascade = cv2.CascadeClassifier('./lbpcascade_frontalface.xml')
+    # face_cascade = cv2.CascadeClassifier('./lbpcascade_frontalface.xml')
+    face_cascade = cv2.CascadeClassifier('./lbpcascade_frontalface_alt.xml')
 
     faces = face_cascade.detectMultiScale(gray, scaleFactor=1.2, minNeighbors=5);
     
@@ -104,7 +105,7 @@ def predict(test_img):
     label, confidence = face_recognizer.predict(face)
     #get name of respective label returned by face recognizer
     label_text = subjects[label]
-    
+    print("label of predicted image =======> ", label_text , confidence)    
     #draw a rectangle around face detected
     draw_rectangle(img, rect)
     #draw name of predicted person
@@ -116,20 +117,27 @@ def predict(test_img):
 print("Predicting images...")
 
 #load test images
-test_img1 = cv2.imread("./pT1.jpeg")
-test_img2 = cv2.imread("./raam1.jpeg")
-test_img3 = cv2.imread("./raam2.jpeg")
+test_img1 = cv2.imread("./pr_test_1.jpeg")
+# test_img1 = cv2.imread("./pT1.jpeg")
+test_img2 = cv2.imread("./ishita_test_1.jpeg")
+# test_img2 = cv2.imread("./ishita1.jpeg")
+test_img3 = cv2.imread("./papa_test_1.jpeg")
+# test_img3 = cv2.imread("./papa2.jpeg")
+
 #perform a prediction
 predicted_img1 = predict(test_img1)
 predicted_img2 = predict(test_img2)
 predicted_img3 = predict(test_img3)
+
 print("Prediction complete")
 
 #display both images
 cv2.imshow(subjects[1], cv2.resize(predicted_img1, (400, 500)))
 cv2.imshow(subjects[2], cv2.resize(predicted_img2, (400, 500)))
-cv2.imshow(subjects[2], cv2.resize(predicted_img3, (400, 500)))
+cv2.imshow(subjects[3], cv2.resize(predicted_img3, (400, 500)))
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 cv2.waitKey(1)
 cv2.destroyAllWindows()
+
+
