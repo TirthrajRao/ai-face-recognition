@@ -76,6 +76,7 @@ def prepare_training_data(data_folder_path):
 print("Preparing data...")
 faces, labels = prepare_training_data("./train")
 print("Data prepared")
+print("faces ==============> ", faces)
 
 #print total faces and labels
 print("Total faces: ", len(faces))
@@ -117,9 +118,10 @@ def predict(test_img):
 print("Predicting images...")
 
 #load test images
-test_img1 = cv2.imread("./pr_test_1.jpeg")
+test_img1 = cv2.imread("./pr_test_6.jpeg")
 # test_img1 = cv2.imread("./pT1.jpeg")
-test_img2 = cv2.imread("./ishita_test_1.jpeg")
+# test_img2 = cv2.imread("./pr_ishita.jpeg")
+test_img2 = cv2.imread("./ishita_test_2.jpeg")
 # test_img2 = cv2.imread("./ishita1.jpeg")
 test_img3 = cv2.imread("./papa_test_1.jpeg")
 # test_img3 = cv2.imread("./papa2.jpeg")
@@ -139,5 +141,3 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 cv2.waitKey(1)
 cv2.destroyAllWindows()
-
-
