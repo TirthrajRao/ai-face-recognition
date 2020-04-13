@@ -1,0 +1,15 @@
+File name according to its functionalities 
+
+1)Face alignment
+	File name		Type 
+
+	aligned_faces	Folder
+	unaligned_faces	Folder
+	det1.npy`		file		
+	det2.npy`		file		
+	det3.npy`		file		
+	detect_dace.py	file
+	align-dataset-mtcnn.py	file ( Main file to execute to align faces)
+
+2)
+

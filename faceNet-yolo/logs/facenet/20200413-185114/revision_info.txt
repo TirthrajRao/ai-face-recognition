@@ -1,0 +1,7 @@
+arguments: train_tripleloss.py
+--------------------
+tensorflow version: 1.13.2
+--------------------
+git hash: b'7c7dadf82d042710349852385539f58303124612'
+--------------------
+b''
