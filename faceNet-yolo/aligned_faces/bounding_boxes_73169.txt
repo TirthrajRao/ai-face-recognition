@@ -1,0 +1,3 @@
+./aligned_faces/s1/pr_train_1.png 171 362 561 874
+./aligned_faces/s2/ishita1.png 275 480 518 825
+./aligned_faces/s3/papa2.png 222 289 561 722

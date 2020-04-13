@@ -1,0 +1,7 @@
+arguments: align-dataset-mtcnn.py ./unaligned_faces ./aligned_faces
+--------------------
+tensorflow version: 2.1.0
+--------------------
+git hash: b'f6c9d2a50ce53c4430be0a49d4b7457cf10345fb'
+--------------------
+b'diff --git a/cv2/raam1.jpeg b/cv2/raam1.jpeg\ndeleted file mode 100644\nindex 78c6dd2..0000000\nBinary files a/cv2/raam1.jpeg and /dev/null differ\ndiff --git a/cv2/raam2.jpeg b/cv2/raam2.jpeg\ndeleted file mode 100644\nindex 78c6dd2..0000000\nBinary files a/cv2/raam2.jpeg and /dev/null differ\ndiff --git a/cv2/train/s1/pr_train_1.jpeg b/cv2/train/s1/pr_train_1.jpeg\ndeleted file mode 100644\nindex 4b3de78..0000000\nBinary files a/cv2/train/s1/pr_train_1.jpeg and /dev/null differ\ndiff --git a/cv2/train/s2/ishita1.jpeg b/cv2/train/s2/ishita1.jpeg\ndeleted file mode 100644\nindex 2cbb3e3..0000000\nBinary files a/cv2/train/s2/ishita1.jpeg and /dev/null differ\ndiff --git a/cv2/train/s3/papa2.jpeg b/cv2/train/s3/papa2.jpeg\ndeleted file mode 100644\nindex 70e65b2..0000000\nBinary files a/cv2/train/s3/papa2.jpeg and /dev/null differ\ndiff --git a/go/go_1.go b/go/go_1.go\nindex 29019b5..27e4f7d 100644\n--- a/go/go_1.go\n+++ b/go/go_1.go\n@@ -55,8 +55,8 @@ func main() {\n \n \t// Prepare the testing data\n \tpaths = nil\n-\tpaths = append(paths, "./pr_test_6.jpg")\n-\tpaths = append(paths, "./ishita_test_2.jpg")\n+\tpaths = append(paths, "./pr_test_7.jpg")\n+\tpaths = append(paths, "./ishita_test_8.jpg")\n \tpaths = append(paths, "./papa_test_1.jpg")\n \t// paths = append(paths, "./papa2.jpg")'

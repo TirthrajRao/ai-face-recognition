@@ -55,8 +55,8 @@ func main() {
 
 	// Prepare the testing data
 	paths = nil
-	paths = append(paths, "./pr_test_6.jpg")
-	paths = append(paths, "./ishita_test_2.jpg")
+	paths = append(paths, "./pr_test_7.jpg")
+	paths = append(paths, "./ishita_test_8.jpg")
 	paths = append(paths, "./papa_test_1.jpg")
 	// paths = append(paths, "./papa2.jpg")
 
