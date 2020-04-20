@@ -1,0 +1,67 @@
+./aligned_faces/Adam Sandler/00000000.png 699 172 1070 687
+./aligned_faces/Baa/baa1.png 237 311 532 675
+./aligned_faces/Chris Evans/00000000.png 155 151 678 786
+./aligned_faces/Chris Hemsworth/00000001.png 125 220 568 789
+./aligned_faces/Chris Pratt/00000000.png 781 140 1201 683
+./aligned_faces/Dwayne "The Rock" Johnson/00000001.png 211 8 495 369
+./aligned_faces/Ishita/ishita1.png 275 480 518 825
+./aligned_faces/Jackie Chan/00000000.png 518 207 831 598
+./aligned_faces/Jeremy Renner/00000000.png 193 54 419 329
+./aligned_faces/Mark Ruffalo/00000000.png 2534 910 4183 3119
+./aligned_faces/Mark Wahlberg/00000001.png 403 42 611 303
+./aligned_faces/Matt Damon/00000000.png 272 264 935 1140
+./aligned_faces/Papa/papa2.png 222 289 561 722
+./aligned_faces/Pushpraj/pr_train_1.png 171 362 561 874
+./aligned_faces/Ryan Gosling/00000001.png 606 235 1356 1242
+./aligned_faces/Ryan Reynolds/00000001.png 570 286 1265 1226
+./aligned_faces/Samuel L. Jackson/00000001.png 1937 334 3645 2425
+./aligned_faces/Tom Cruise/00000001.png 356 282 814 856
+./aligned_faces/Tom Hanks/00000000.png 373 150 817 761
+./aligned_faces/ajay_devgan/00000000.png 349 93 537 345
+./aligned_faces/akshay-kumar/akshay3.png 123 46 305 281
+./aligned_faces/alia/00000001.png 138 31 362 300
+./aligned_faces/amir-khan/amir3.png 298 114 598 499
+./aligned_faces/amitab bachan/amitabh1.png 228 7 495 353
+./aligned_faces/anushka/00000001.png 218 124 452 413
+./aligned_faces/arijit singh/arijit5.png 356 50 492 211
+./aligned_faces/baav/WhatsApp Image 2020-04-16 at 5.52.21 PM.png 252 341 729 902
+./aligned_faces/ben_afflek/ben1.png 378 46 586 310
+./aligned_faces/bharat/WhatsApp Image 2020-04-16 at 4.47.41 PM.png 199 289 395 536
+./aligned_faces/buntybhai/WhatsApp Image 2020-04-16 at 4.37.53 PM.png 178 393 463 758
+./aligned_faces/devang/WhatsApp Image 2020-04-17 at 11.10.01 AM.png 175 343 504 757
+./aligned_faces/dhoni/00000001.png 314 112 565 417
+./aligned_faces/dipika/00000000.png 1453 196 1923 808
+./aligned_faces/disha/00000001.png 115 146 588 794
+./aligned_faces/elton_john/john1.png 482 61 872 556
+./aligned_faces/gambhir/00000000.png 334 37 544 313
+./aligned_faces/jayveersinh/WhatsApp Image 2020-04-16 at 6.20.40 PM.png 37 298 505 896
+./aligned_faces/jerry_seinfeld/jerry2.png 190 57 343 256
+./aligned_faces/john-cena/john1.png 392 37 538 209
+./aligned_faces/jonny depp/jonny2.png 279 752 347 826
+./aligned_faces/jonny_liver/00000000.png 301 97 561 425
+./aligned_faces/kapil_dev/00000000.png 122 169 533 696
+./aligned_faces/kareena/00000002.png 533 53 777 375
+./aligned_faces/katrina/00000001.png 233 98 417 326
+./aligned_faces/khali/00000000.png 849 600 1006 771
+./aligned_faces/krushang/WhatsApp Image 2020-04-16 at 4.55.06 PM.png 278 69 420 243
+./aligned_faces/kuldip-shiddhpura/k23.png 257 135 626 645
+./aligned_faces/madonna/maddona1.png 103 0 215 134
+./aligned_faces/malhar/WhatsApp Image 2020-04-16 at 4.43.50 PM.png 104 254 564 815
+./aligned_faces/mindy_kaling/mindy1.png 482 44 734 344
+./aligned_faces/mummy/mummy1.png 395 491 654 816
+./aligned_faces/paresh_raval/00000000.png 195 36 403 292
+./aligned_faces/priyanka/00000000.png 249 184 445 414
+./aligned_faces/raam/raam1.png 69 239 484 756
+./aligned_faces/ranveer-kapoor/ranveer.png 582 159 944 649
+./aligned_faces/ranveer-singh/ranveer-singh2.png 313 42 490 263
+./aligned_faces/robert downey jr/robert1.png 229 116 431 392
+./aligned_faces/sachin/00000000.png 494 199 798 575
+./aligned_faces/saif/00000000.png 384 152 747 612
+./aligned_faces/sanjay-dutt/sanjay1.png 281 49 389 180
+./aligned_faces/savan/WhatsApp Image 2020-04-16 at 4.39.36 PM.png 479 57 645 259
+./aligned_faces/shahid-kapoor/shahid1.png 330 69 525 309
+./aligned_faces/sunil/00000000.png 264 176 768 794
+./aligned_faces/tiger_shroff/00000000.png 346 51 557 330
+./aligned_faces/tiku/tiku1.png 349 239 510 441
+./aligned_faces/vin deisel/vin1.png 587 45 819 365
+./aligned_faces/virat/00000001.png 212 63 411 298
